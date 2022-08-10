@@ -2,7 +2,7 @@
 - 👀 I’m interested in Neural Networks
 - 🌱 I’m currently learning Convolutional Neural Network
 - 💞️ I’m looking to collaborate on Digit Recognition System by using Matlab
-- 📫 How to reach me https://abdullahanif.github.io/CV/my%20Resume/index.html
+- 📫 How to reach me https://abdullahanif.github.io/Resume/my%20Resume/index.html
 
 <!---
 Abdullahanif/Abdullahanif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
